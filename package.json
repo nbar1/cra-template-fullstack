@@ -1,5 +1,5 @@
 {
-	"name": "cra-template-fullstack",
+	"name": "@nbar1/cra-template-fullstack",
 	"version": "0.0.2",
 	"keywords": [
 		"react",
@@ -9,7 +9,7 @@
 	"description": "Fullstack template for Create React App.",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/nbar1/cra-template-fullstack.git"
+		"url": "git+https://github.com/nbar1/cra-template-fullstack.git"
 	},
 	"license": "MIT",
 	"engines": {
